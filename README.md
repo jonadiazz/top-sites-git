@@ -1,2 +1,3 @@
 # top-sites-git
-AWS &amp; git
+## takes top websites from Google Trends
+### AWS &amp; git
